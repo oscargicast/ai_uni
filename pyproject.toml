@@ -16,6 +16,7 @@ dependencies = [
     "imbalanced-learn>=0.14.0",
     "category-encoders>=2.8.1",
     "graphviz>=0.21",
+    "spacy>=3.8.7",
 ]
 
 [project.optional-dependencies]
